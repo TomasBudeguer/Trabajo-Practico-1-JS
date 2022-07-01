@@ -1,3 +1,4 @@
+// ejercicio 7
 let num1 = parseInt(prompt('ingrese un numero'))
 let num2 = parseInt(prompt('ingrese otro numero'))
 let num3 = parseInt(prompt('ingrese otro numero'))
